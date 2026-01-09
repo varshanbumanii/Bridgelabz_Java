@@ -13,6 +13,7 @@ public class removechar {
                 str1 += str.charAt(i);
             }
         }
+
         System.out.println(str1);
     }
 }
